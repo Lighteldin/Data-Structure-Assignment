@@ -1,0 +1,16 @@
+*{
+    -fx-font-family: "Tahoma";
+}
+.default-color0.chart-bar {
+    -fx-bar-fill: #007bff;
+}
+.button {
+    -fx-background-color: #007bff;
+    -fx-text-fill: white;
+}
+.button:hover {
+    -fx-opacity: 0.9;
+}
+.button:pressed {
+    -fx-opacity: 0.8;
+}
