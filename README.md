@@ -1,0 +1,2 @@
+- Used JavaFX to create the project's GUI/simulation.
+- Simulation was made on 200 elements only given that JavaFX was extremely laggy.
